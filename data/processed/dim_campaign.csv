@@ -1,0 +1,7 @@
+campaign_key,campaign_name,campaign_short,campaign_sequence,is_last_campaign,source_column
+1,Campaign 1,Cmp 1,1,0,AcceptedCmp1
+2,Campaign 2,Cmp 2,2,0,AcceptedCmp2
+3,Campaign 3,Cmp 3,3,0,AcceptedCmp3
+4,Campaign 4,Cmp 4,4,0,AcceptedCmp4
+5,Campaign 5,Cmp 5,5,0,AcceptedCmp5
+6,Last Campaign (6),Last,6,1,Response

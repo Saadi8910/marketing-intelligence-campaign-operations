@@ -1,0 +1,309 @@
+{
+  "name": "Marketing KPI Monitoring & Data Quality Alert",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "days",
+              "daysInterval": 1,
+              "triggerAtHour": 8
+            }
+          ]
+        }
+      },
+      "id": "5d2f9590-b647-4744-a065-a62bc466ec95",
+      "name": "Daily 08:00 Schedule",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT check_name, check_category, metric_value, comparison,\n       threshold_value, status, message\nFROM vw_monitoring_checks\nORDER BY status, check_category, check_name;",
+        "options": {}
+      },
+      "id": "f19b852e-f6f1-4525-935e-ede22161be29",
+      "name": "Run Monitoring Checks",
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.4,
+      "position": [
+        240,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "insert",
+        "table": {
+          "__rl": true,
+          "value": "monitoring_log",
+          "mode": "name"
+        },
+        "dataMode": "autoMapInputData",
+        "options": {}
+      },
+      "id": "65a17faa-7861-4736-9d2b-0c3f5b86af0d",
+      "name": "Log Check Results",
+      "type": "n8n-nodes-base.mySql",
+      "typeVersion": 2.4,
+      "position": [
+        500,
+        120
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "03fea218-cc61-467f-b21b-c94d8c9fea27",
+              "leftValue": "={{ $json.status }}",
+              "rightValue": "ALERT",
+              "operator": {
+                "type": "string",
+                "operation": "equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "d524edf9-64a5-4ea0-b007-b212977c0240",
+      "name": "Any Alerts?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        500,
+        420
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Combine every ALERT item into ONE notification (not one message per check).\nconst alerts = $input.all().map(item => item.json);\n\nconst lines = alerts.map(a =>\n  `- [${a.check_category}] ${a.check_name}: ${a.metric_value} (alert if ${a.comparison} ${a.threshold_value})`\n);\n\nreturn [{\n  json: {\n    subject: `Marketing BI monitoring: ${alerts.length} check(s) need attention`,\n    body: [\n      'Marketing Intelligence & Campaign Operations - automated KPI / data-quality check',\n      `Run time (UTC): ${new Date().toISOString()}`,\n      '',\n      ...lines,\n      '',\n      'Source: marketing_intelligence.vw_monitoring_checks (MySQL).',\n      'Portfolio demonstration - not connected to a live production environment.'\n    ].join('\\n'),\n    alert_count: alerts.length,\n    alert_checks: alerts.map(a => a.check_name)\n  }\n}];"
+      },
+      "id": "860512d6-66e2-4cfa-944f-d140192bd78a",
+      "name": "Build Alert Message",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        760,
+        320
+      ]
+    },
+    {
+      "parameters": {},
+      "id": "9fe92bd1-789d-474e-a27a-5d58131f9edc",
+      "name": "Send Notification (placeholder)",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        1000,
+        320
+      ]
+    },
+    {
+      "parameters": {},
+      "id": "d7ba0855-7a05-4148-abd1-e57f65e894d0",
+      "name": "No Alert - All Checks OK",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        760,
+        540
+      ]
+    },
+    {
+      "parameters": {
+        "content": "## Marketing KPI Monitoring & Data Quality Alert\nPortfolio demonstration of automated BI monitoring. **Not connected to a live company production environment.**\n\n1. Schedule runs daily 08:00\n2. MySQL reads `vw_monitoring_checks` (9 KPI / DQ checks, thresholds in `monitoring_thresholds`)\n3. Every result is logged to `monitoring_log`\n4. ALERT rows are combined into one message\n5. Notification is a placeholder - swap for Gmail / Outlook / Slack / Send Email node\n\nThe MySQL node has pinned sample data (real output of the view) so the flow can be tested without a database. Unpin it to query live.",
+        "height": 300,
+        "width": 520
+      },
+      "id": "4c2f4ed5-438d-45a3-94ed-65338c2cce39",
+      "name": "About this workflow",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -40,
+        -120
+      ]
+    }
+  ],
+  "connections": {
+    "Daily 08:00 Schedule": {
+      "main": [
+        [
+          {
+            "node": "Run Monitoring Checks",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Run Monitoring Checks": {
+      "main": [
+        [
+          {
+            "node": "Log Check Results",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Any Alerts?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Any Alerts?": {
+      "main": [
+        [
+          {
+            "node": "Build Alert Message",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "No Alert - All Checks OK",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Build Alert Message": {
+      "main": [
+        [
+          {
+            "node": "Send Notification (placeholder)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {
+    "Run Monitoring Checks": [
+      {
+        "json": {
+          "check_name": "invalid_birth_year_rows",
+          "check_category": "Data quality",
+          "metric_value": 3.0,
+          "comparison": ">",
+          "threshold_value": 0.0,
+          "status": "ALERT",
+          "message": "Rows with Year_Birth before 1920: value 3.00 (alert if > 0.00)"
+        }
+      },
+      {
+        "json": {
+          "check_name": "lowest_campaign_acceptance_pct",
+          "check_category": "KPI",
+          "metric_value": 1.26,
+          "comparison": "<",
+          "threshold_value": 2.0,
+          "status": "ALERT",
+          "message": "Weakest campaign acceptance rate below floor: value 1.26 (alert if < 2.00)"
+        }
+      },
+      {
+        "json": {
+          "check_name": "suspected_duplicate_rows",
+          "check_category": "Data quality",
+          "metric_value": 182.0,
+          "comparison": ">",
+          "threshold_value": 0.0,
+          "status": "ALERT",
+          "message": "Rows identical to another customer except ID/Country: value 182.00 (alert if > 0.00)"
+        }
+      },
+      {
+        "json": {
+          "check_name": "catalog_purchase_share_pct",
+          "check_category": "KPI",
+          "metric_value": 21.24,
+          "comparison": "<",
+          "threshold_value": 15.0,
+          "status": "OK",
+          "message": "Catalog share of channel purchases below floor: value 21.24 (alert if < 15.00)"
+        }
+      },
+      {
+        "json": {
+          "check_name": "invalid_campaign_flag_rows",
+          "check_category": "Data quality",
+          "metric_value": 0.0,
+          "comparison": ">",
+          "threshold_value": 0.0,
+          "status": "OK",
+          "message": "Rows with a campaign flag other than 0/1: value 0.00 (alert if > 0.00)"
+        }
+      },
+      {
+        "json": {
+          "check_name": "last_campaign_response_rate_pct",
+          "check_category": "KPI",
+          "metric_value": 15.21,
+          "comparison": "<",
+          "threshold_value": 10.0,
+          "status": "OK",
+          "message": "Last campaign response rate below target: value 15.21 (alert if < 10.00)"
+        }
+      },
+      {
+        "json": {
+          "check_name": "missing_campaign_flag_rows",
+          "check_category": "Data quality",
+          "metric_value": 0.0,
+          "comparison": ">",
+          "threshold_value": 0.0,
+          "status": "OK",
+          "message": "Rows with any blank campaign flag: value 0.00 (alert if > 0.00)"
+        }
+      },
+      {
+        "json": {
+          "check_name": "missing_income_pct",
+          "check_category": "Data quality",
+          "metric_value": 1.07,
+          "comparison": ">",
+          "threshold_value": 2.0,
+          "status": "OK",
+          "message": "Percent of rows with blank income: value 1.07 (alert if > 2.00)"
+        }
+      },
+      {
+        "json": {
+          "check_name": "raw_vs_staging_row_difference",
+          "check_category": "Data quality",
+          "metric_value": 0.0,
+          "comparison": ">",
+          "threshold_value": 0.0,
+          "status": "OK",
+          "message": "Raw rows minus staging rows (load completeness): value 0.00 (alert if > 0.00)"
+        }
+      }
+    ]
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "tags": []
+}

@@ -1,0 +1,7 @@
+product_key,product_name,source_column
+1,Wines,MntWines
+2,Fruits,MntFruits
+3,Meat,MntMeatProducts
+4,Fish,MntFishProducts
+5,Sweets,MntSweetProducts
+6,Gold,MntGoldProds

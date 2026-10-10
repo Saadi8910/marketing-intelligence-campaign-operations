@@ -1,0 +1,16 @@
+# Secrets / local config - never commit credentials or connection strings
+.env
+*.env
+credentials*.json
+n8n/credentials*.json
+
+# Power BI Project (.pbip) local/cache files (the .pbip text files themselves SHOULD be committed)
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+~$*
+.vscode/
+.idea/

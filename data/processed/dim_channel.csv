@@ -1,0 +1,4 @@
+channel_key,channel_name,source_column
+1,Web,NumWebPurchases
+2,Catalog,NumCatalogPurchases
+3,Store,NumStorePurchases

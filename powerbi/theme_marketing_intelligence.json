@@ -1,0 +1,16 @@
+{
+  "name": "Marketing Intelligence",
+  "dataColors": ["#1F3A5F", "#3A7CA5", "#9C640C", "#81A4CD", "#D9A441", "#5D6D7E", "#B03A2E", "#7FB069"],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#1F3A5F",
+  "good": "#2E7D32",
+  "neutral": "#D9A441",
+  "bad": "#B03A2E",
+  "textClasses": {
+    "callout": { "fontSize": 26, "fontFace": "Segoe UI Semibold", "color": "#1F3A5F" },
+    "title":   { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#252423" },
+    "header":  { "fontSize": 11, "fontFace": "Segoe UI Semibold", "color": "#252423" },
+    "label":   { "fontSize": 10, "fontFace": "Segoe UI", "color": "#5D6D7E" }
+  }
+}

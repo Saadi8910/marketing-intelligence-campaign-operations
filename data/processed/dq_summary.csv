@@ -1,0 +1,10 @@
+issue_code,issue_description,severity,handling,affected_rows,pct_of_source_rows
+DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,182,8.13
+DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,131,5.85
+DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,24,1.07
+DQ_INCOME_OUTLIER,"Income 666,666 is a likely placeholder",Medium,Kept; income set to NULL; band = Unknown,1,0.04
+DQ_BIRTH_YEAR,Birth year before 1920 (implied age 114+),Medium,Kept; age set to NULL; age group = Unknown,3,0.13
+DQ_MARITAL,Non-standard marital status (YOLO/Absurd),Low,Kept; mapped to Unknown,4,0.18
+DQ_SPEND_NO_PURCHASES,Spend recorded but 0 web/catalog/store purchases,Low,Kept; flagged; avg spend per purchase = NULL,6,0.27
+DQ_DEALS_GT_PURCHASES,Deal purchases exceed total channel purchases,Low,Kept; flagged,3,0.13
+DQ_WEB_VISITS_OUTLIER,More than 10 web visits last month,Low,Kept; flagged (plausible but unusual),9,0.40

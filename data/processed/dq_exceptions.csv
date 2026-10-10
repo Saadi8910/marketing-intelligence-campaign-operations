@@ -1,0 +1,364 @@
+customer_id,issue_code,issue_description,severity,handling,include_in_reporting,detail
+880,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 524
+1135,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 24
+1388,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 979
+1502,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 736
+1998,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1250
+2227,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 946
+2246,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 20
+2253,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1876
+2326,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1876
+2345,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1232
+2392,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1920
+2561,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1245
+2793,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1071
+2807,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1052
+2814,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2711
+2849,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1456
+2928,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2920
+3091,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 762
+3130,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2661
+3266,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 574
+3363,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2106
+3560,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 241
+3565,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 833
+3852,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1000
+3867,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3859
+3934,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2493
+4096,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 968
+4102,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2217
+4119,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3033
+4186,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1419
+4211,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1407
+4261,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2114
+4301,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2521
+4391,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3421
+4436,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2929
+4500,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3428
+4599,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 879
+4698,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3037
+4749,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1343
+4843,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4508
+4944,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4607
+4971,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4088
+4973,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 49
+5011,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2891
+5107,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2055
+5153,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4127
+5232,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3011
+5314,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1409
+5424,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3220
+5513,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3007
+5517,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 78
+5529,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4001
+5536,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3174
+5538,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3910
+5885,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3310
+6024,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5386
+6071,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 295
+6173,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5077
+6183,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4470
+6202,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3856
+6222,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2826
+6283,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3421
+6318,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5396
+6544,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 716
+6583,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3433
+6661,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5462
+6798,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4168
+6918,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5012
+6935,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4646
+6988,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 175
+7010,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4767
+7059,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1225
+7094,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5084
+7152,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5731
+7212,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 868
+7261,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2452
+7321,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4998
+7366,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 6853
+7386,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3006
+7433,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3332
+7451,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4248
+7500,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 6887
+7516,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3129
+7521,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 241
+7530,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 7485
+7592,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 455
+7685,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 6310
+7699,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 271
+7723,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2963
+7787,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2453
+7789,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1966
+7807,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 6818
+8015,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1745
+8175,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3386
+8299,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 663
+8312,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2563
+8315,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5184
+8334,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 7275
+8360,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 7426
+8362,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5547
+8372,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 520
+8373,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3829
+8427,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 217
+8432,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5430
+8504,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1020
+8524,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5093
+8588,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4094
+8595,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 7232
+8619,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 8430
+8652,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4939
+8685,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3340
+8702,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 577
+8727,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3056
+8775,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 7254
+8780,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 6245
+8800,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2968
+8842,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2154
+8867,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2747
+8895,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 7290
+9064,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2407
+9121,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2176
+9150,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2811
+9209,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 6417
+9308,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 544
+9323,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1146
+9384,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 9381
+9396,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 933
+9460,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3855
+9477,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4047
+9495,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2631
+9543,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 7093
+9589,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 202
+9733,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 8462
+9757,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2088
+9805,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 849
+9826,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5830
+9888,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4399
+9916,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 6730
+9923,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 67
+9955,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3697
+9958,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3900
+9964,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1630
+9972,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2945
+10033,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5751
+10037,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2669
+10065,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 8420
+10120,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4541
+10128,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 9284
+10144,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 7375
+10160,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 9347
+10172,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 6729
+10177,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2429
+10207,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4838
+10212,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 9738
+10258,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 8953
+10260,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 2262
+10264,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 234
+10304,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4086
+10451,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4198
+10536,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 6383
+10562,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 7881
+10602,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3220
+10617,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 6864
+10642,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4459
+10643,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1162
+10648,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5120
+10681,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5156
+10703,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 9
+10727,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5299
+10735,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5068
+10741,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5491
+10766,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 9971
+10789,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 6431
+10795,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5929
+10826,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4086
+10872,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 9707
+10897,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 5462
+10905,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 8910
+10906,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 4107
+10981,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 486
+11171,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 1600
+11188,DQ_DUPLICATE,Suspected duplicate profile (surplus copy),High,Excluded from reporting; lowest ID kept,0,Duplicate of ID 3152
+9,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+20,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Germany
+24,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+78,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+175,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+217,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+234,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+241,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+486,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+520,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+524,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+544,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+574,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Germany
+577,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+663,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+716,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+736,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = India
+762,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+849,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+868,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+879,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+933,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+946,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+968,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+979,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+1000,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+1020,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+1052,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+1071,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = USA
+1146,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+1162,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+1225,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+1232,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Germany
+1245,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+1250,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+1343,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = USA
+1407,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Germany
+1409,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = USA
+1419,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+1456,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = India
+1600,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+1876,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = India
+1966,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+2088,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Germany
+2114,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = USA
+2176,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+2217,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = India
+2262,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+2407,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = USA
+2429,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+2453,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+2493,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Germany
+2521,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+2563,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = India
+2661,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+2669,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+2711,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+2747,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+2891,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = USA
+2920,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Mexico
+2945,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+2963,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+2968,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+3007,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = India
+3011,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+3033,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+3037,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+3129,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+3152,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = India
+3174,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+3220,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Germany
+3310,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+3332,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Germany
+3340,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+3386,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+3421,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+3697,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+3829,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+3855,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+3859,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+3900,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+4001,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+4047,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = USA
+4086,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Germany
+4088,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+4094,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+4107,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+4168,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+4198,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+4399,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+4470,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+4508,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Germany
+4541,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+4646,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+4838,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = India
+4939,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = USA
+4998,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+5068,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+5077,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+5084,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+5120,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+5184,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+5386,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+5396,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+5462,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = India
+5491,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+5547,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+5731,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+5751,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+5830,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+5929,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+6310,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Canada
+6383,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+6417,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+6431,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = India
+6729,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+6730,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+6853,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+6864,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+6887,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Germany
+7232,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+7254,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+7275,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = USA
+7485,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+7881,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+8430,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Australia
+8462,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+8953,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+9284,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Spain
+9738,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+9971,DQ_COUNTRY_CONFLICT,Copies of this profile disagree on country,Medium,Kept; country treated as unverified,1,Country = Saudi Arabia
+1295,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+1612,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+1994,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+2437,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+2863,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+2902,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+3117,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+3769,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+4345,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+5079,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+5250,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+5255,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+5798,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+7187,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+7244,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+7281,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+8268,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+8557,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+8720,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+8996,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+9235,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+10339,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+10475,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+10629,DQ_INCOME_MISSING,Income is blank in source,Medium,Kept; income band = Unknown; excluded from income averages,1,
+9432,DQ_INCOME_OUTLIER,"Income 666,666 is a likely placeholder",Medium,Kept; income set to NULL; band = Unknown,1,Raw income = 666666.00
+1150,DQ_BIRTH_YEAR,Birth year before 1920 (implied age 114+),Medium,Kept; age set to NULL; age group = Unknown,1,Year_Birth = 1899
+7829,DQ_BIRTH_YEAR,Birth year before 1920 (implied age 114+),Medium,Kept; age set to NULL; age group = Unknown,1,Year_Birth = 1900
+11004,DQ_BIRTH_YEAR,Birth year before 1920 (implied age 114+),Medium,Kept; age set to NULL; age group = Unknown,1,Year_Birth = 1893
+492,DQ_MARITAL,Non-standard marital status (YOLO/Absurd),Low,Kept; mapped to Unknown,1,Raw = YOLO
+4369,DQ_MARITAL,Non-standard marital status (YOLO/Absurd),Low,Kept; mapped to Unknown,1,Raw = Absurd
+7734,DQ_MARITAL,Non-standard marital status (YOLO/Absurd),Low,Kept; mapped to Unknown,1,Raw = Absurd
+11133,DQ_MARITAL,Non-standard marital status (YOLO/Absurd),Low,Kept; mapped to Unknown,1,Raw = YOLO
+3955,DQ_SPEND_NO_PURCHASES,Spend recorded but 0 web/catalog/store purchases,Low,Kept; flagged; avg spend per purchase = NULL,1,Total spend = 6
+5555,DQ_SPEND_NO_PURCHASES,Spend recorded but 0 web/catalog/store purchases,Low,Kept; flagged; avg spend per purchase = NULL,1,Total spend = 6
+6862,DQ_SPEND_NO_PURCHASES,Spend recorded but 0 web/catalog/store purchases,Low,Kept; flagged; avg spend per purchase = NULL,1,Total spend = 8
+9931,DQ_SPEND_NO_PURCHASES,Spend recorded but 0 web/catalog/store purchases,Low,Kept; flagged; avg spend per purchase = NULL,1,Total spend = 9
+11110,DQ_SPEND_NO_PURCHASES,Spend recorded but 0 web/catalog/store purchases,Low,Kept; flagged; avg spend per purchase = NULL,1,Total spend = 5
+11181,DQ_SPEND_NO_PURCHASES,Spend recorded but 0 web/catalog/store purchases,Low,Kept; flagged; avg spend per purchase = NULL,1,Total spend = 8
+6862,DQ_DEALS_GT_PURCHASES,Deal purchases exceed total channel purchases,Low,Kept; flagged,1,"Deals = 15, purchases = 0"
+9931,DQ_DEALS_GT_PURCHASES,Deal purchases exceed total channel purchases,Low,Kept; flagged,1,"Deals = 15, purchases = 0"
+10749,DQ_DEALS_GT_PURCHASES,Deal purchases exceed total channel purchases,Low,Kept; flagged,1,"Deals = 15, purchases = 1"
+3955,DQ_WEB_VISITS_OUTLIER,More than 10 web visits last month,Low,Kept; flagged (plausible but unusual),1,Visits = 14
+4246,DQ_WEB_VISITS_OUTLIER,More than 10 web visits last month,Low,Kept; flagged (plausible but unusual),1,Visits = 17
+4303,DQ_WEB_VISITS_OUTLIER,More than 10 web visits last month,Low,Kept; flagged (plausible but unusual),1,Visits = 20
+5899,DQ_WEB_VISITS_OUTLIER,More than 10 web visits last month,Low,Kept; flagged (plausible but unusual),1,Visits = 20
+6862,DQ_WEB_VISITS_OUTLIER,More than 10 web visits last month,Low,Kept; flagged (plausible but unusual),1,Visits = 20
+9303,DQ_WEB_VISITS_OUTLIER,More than 10 web visits last month,Low,Kept; flagged (plausible but unusual),1,Visits = 13
+9931,DQ_WEB_VISITS_OUTLIER,More than 10 web visits last month,Low,Kept; flagged (plausible but unusual),1,Visits = 19
+10749,DQ_WEB_VISITS_OUTLIER,More than 10 web visits last month,Low,Kept; flagged (plausible but unusual),1,Visits = 19
+11110,DQ_WEB_VISITS_OUTLIER,More than 10 web visits last month,Low,Kept; flagged (plausible but unusual),1,Visits = 14
