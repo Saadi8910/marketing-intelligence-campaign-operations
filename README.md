@@ -185,4 +185,4 @@ marketing-intelligence-campaign-operations/
 ```
 
 ## Author
-**[Your Name]** — [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Muhammad Saad** — [LinkedIn](https://www.linkedin.com/in/muhammad-saad-05ba76227) · [GitHub](https://github.com/Saadi8910)
